@@ -1,7 +1,7 @@
 # Fastned
 
 This dataset contains all the charging stations Fastned has at the time of publishing.
-The goal is to convert Fastned.xlsx data into OpenStreetMap via a manual check.
+The goal is to convert Fastned.xls data into OpenStreetMap via a manual check.
 
 The dataset format is likely to change whenever Fastned is going to provide this dataset on their [website](https://fastnedcharging.com/).
 Therefore there currently is no script to convert the .gpx file, this has been done in Excel.
@@ -27,7 +27,7 @@ Manual added- / changed tags:
 * motorcar=yes
 * opening_hours=24/7
 * source=Fastned (OCPI)
-* source:date=18-2-2021
+* source:date=2021-02-18
 * website=https://fastnedcharging.com
 * operator=Fastned
 * name=Fastned Geulenkamp
